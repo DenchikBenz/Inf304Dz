@@ -45,6 +45,7 @@ public class LinkedList  implements List{
             counter += 1;
         }
         res.next = res.next.next;
+        size--;
     }
     @Override
     public Integer pop(){
@@ -61,7 +62,7 @@ public class LinkedList  implements List{
         return size;
     }
     public void tstr(){
-        int counter = 1;
+        int counter = 0;
         Node track = head;
         while (counter < size){
             System.out.print(track.value);
