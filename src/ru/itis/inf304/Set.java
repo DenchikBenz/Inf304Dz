@@ -27,7 +27,7 @@ public class Set <T>{
             throw new EmptyElException();
         }
         if (this.contains(a)) {
-            System.out.print("Элемент уже в множестве");
+            System.out.println("Элемент уже в множестве");
         } else {
             if (size<elements.length) {
                     elements[size++] = a;
