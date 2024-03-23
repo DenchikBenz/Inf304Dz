@@ -40,7 +40,7 @@ public class LinkedList  implements List{
         }
         int counter = 0;
         Node res = head;
-        while (counter != index - 1) {
+        while (counter != index - 1) { // знаем колличество
             res = res.next;
             counter += 1;
         }

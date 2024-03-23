@@ -1,0 +1,10 @@
+
+˜	java:S1174"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Çîš„ùÿÿÿÿ8«¬ªÀÙ1J$eb3430df-124a-4c96-9835-15cdf5b36560
+]
+java:S1220""Move this file to a named package.8´ý°Ïæ1J$9ad2eb81-c32f-49b9-af7f-42c7d9a204e3
+r
+java:S1197"*Move the array designators [] to the type.(Ö…ÿýùÿÿÿÿ8ð¬ªÀÙ1J$5c5b66fb-7426-4b65-baa4-03dbb2da3f9a
+œ
+java:S3012"YUse "Arrays.copyOf", "Arrays.asList", "Collections.addAll" or "System.arraycopy" instead.(ÊòÐÝ8ð¬ªÀÙ1J$934d6caf-94e7-4bdf-adc0-8278002b6d0c
+r	java:S106:"+Replace this use of System.out by a logger.(äüôøøÿÿÿÿ8ý¬ªÀÙ1J$0e6485b4-13b8-4964-875c-8885f21d4cf2
+m	java:S106;"+Replace this use of System.out by a logger.(×•œ²8ý¬ªÀÙ1J$546f3a9e-9426-47c2-a877-4ed2a29d4b25

@@ -1,0 +1,24 @@
+
+›
+java:S2293@"YReplace the type specification in this constructor call with the diamond operator ("<>").(™†ŽY8í¹ Òæ1J$2f3860ca-6b6f-48d9-be41-edb78d1c1b57
+˜	java:S1175"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(«ÝÕÑúÿÿÿÿ8î¹ Òæ1J$649be82b-4fc5-48b5-863f-4e5de8e06cd5
+…
+java:S4977C"=Rename "T" which hides a type parameter from the outer scope.(Ý½òÎüÿÿÿÿ8î¹ Òæ1J$2dfe0b1f-bad8-4042-b50d-bbcc59fbd08b
+]
+java:S1220""Move this file to a named package.8ï¹ Òæ1J$bf9f4fc9-60ad-48e8-906b-25bc3c17e93c
+r
+java:S1197"*Move the array designators [] to the type.(½îÞšüÿÿÿÿ8ƒº Òæ1J$11e966a8-38e5-40a6-af25-8c55e088b1f1
+œ
+java:S3012"YUse "Arrays.copyOf", "Arrays.asList", "Collections.addAll" or "System.arraycopy" instead.(ÊòÐÝ8ƒº Òæ1J$71b78070-9552-4b6e-8c42-a986bf1ad885
+l
+java:S19057")Remove this unnecessary cast to "Object".(Ú¢À¾8†º Òæ1J$baa30de3-4f1d-48ff-b861-71265b0719b3
+r	java:S106;"+Replace this use of System.out by a logger.(äüôøøÿÿÿÿ8‡º Òæ1J$d8350749-ffdc-4739-a3be-faede01a8d58
+m	java:S106<"+Replace this use of System.out by a logger.(×•œ²8‡º Òæ1J$c3814a13-049d-4a0c-beb0-ec5ca8a0d425
+¡
+java:S1450E"YRemove the "nextCalled" field and declare it as a local variable in the relevant methods.(¿ÙæÂùÿÿÿÿ8ˆº Òæ1J$85786c66-9dd2-4777-a689-ea3c2122b1b8
+‚
+java:S1161\":Add the "@Override" annotation above this method signature(¦³üëûÿÿÿÿ8‹º Òæ1J$e2bc4802-4c9b-412c-9705-89edb115c011
+y
+java:S1128"1Remove this unused import 'java.util.Collection'.(¹ÉÐšùÿÿÿÿ8‹º Òæ1J$0d746bc5-e5ad-4b0f-8b85-c432eb562299
+v
+java:S1068E".Remove this unused "nextCalled" private field.(¿ÙæÂùÿÿÿÿ8Œº Òæ1J$c9552f56-79a7-4bd0-b64e-21827d41ad59

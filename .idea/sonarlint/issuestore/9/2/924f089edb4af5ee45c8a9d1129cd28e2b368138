@@ -1,0 +1,18 @@
+
+˜	java:S117	"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¤˜Ø¡øÿÿÿÿ8ïä™Ñæ1J$596270e4-e53c-43bc-aaa2-e2312da548ab
+]
+java:S1220""Move this file to a named package.8ğä™Ñæ1J$5ec1f6b6-424a-44af-bdf3-a0d4e975744a
+{
+java:S1854"8Remove this useless assignment to local variable "test".(ìª•8óä™Ñæ1J$6dc1f1f3-6ec6-49d8-a10f-e7cdd7926fb9
+l
+java:S1481")Remove this unused "test" local variable.(ìª•8ôä™Ñæ1J$97137414-b71e-471d-b6d7-5c0b99c3e53a
+r	java:S106
+"+Replace this use of System.out by a logger.(ã½¹Œøÿÿÿÿ8öä™Ñæ1J$dd1a24ba-3595-41fb-8b80-7cfd1668894c
+r	java:S106"+Replace this use of System.out by a logger.(ã½¹Œøÿÿÿÿ8öä™Ñæ1J$67422b5d-4785-40fa-b7b7-ab698eb5dca2
+}	java:S125"<This block of commented-out lines of code should be removed.(–½Ï8åÉÑæ1J$0de223a6-e45d-4779-ac6f-55ba79135707
+r	java:S106"+Replace this use of System.out by a logger.(ã½¹Œøÿÿÿÿ8ÈË²Ñæ1J$681bf42e-b776-4b20-9e45-03f1872ee800
+w
+java:S1611"/Remove the parentheses around the "s" parameter(õ„½ıÿÿÿÿ8ÇË²Ñæ1J$eb37dc25-a8e1-48e2-81e5-ac7ce00ee224
+ˆ
+java:S1612"@Replace this lambda with method reference 'System.out::println'.(õ„½ıÿÿÿÿ8ÈË²Ñæ1J$17a26d02-d44b-4d71-b5db-94d498058c30
+r	java:S106"+Replace this use of System.out by a logger.(õ„½ıÿÿÿÿ8òÊÑæ1J$0242f174-d8c3-4f9d-8624-2a7c59026063
